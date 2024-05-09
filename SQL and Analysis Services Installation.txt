@@ -1,3 +1,5 @@
+Test
+
 *********
 Databases:
 *********
@@ -9,12 +11,13 @@ Databases:
 				Data Storage, Data Manipulation, Data Retrieval
 
 ************************************
-Semnatic Model or Cube or Pivot Databases:
+Semantic Model or Cube or Pivot Databases:
 ************************************
 	These are one kind of databases with multi dimension structure, contains tables.
 		Ex: SSAS [SQL Server Analysis Services], AAS[Azure Analysis Services], SAP-HANA, Hyperion Essbase etc.
 	
 	Suitable For:
+
 			Limited volumes storage, aggregates and analytical calculations creation, quick retrieval and analysis
 
 ************************************************************************
